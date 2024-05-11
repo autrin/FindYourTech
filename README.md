@@ -1,19 +1,3 @@
-# FindYourTech                   
-                                                           
-Developers:
--Rangsimun Bargmann
-rgbrgmnn@iastate.edu
--Autrin Hakimi
-ahakimi@iastate.edu
-
-Instructor: Dr. Abraham Aldaco
-
-Course: Com S 319 - Instruction of User Interfaces
-
-May 8, 2023
-
-COM S 319 Final Project
-
 
 Abstract:
 Our aim was to create a user-friendly single page website that assists college students with limited knowledge and information on everyday technology to make the best decisions about the products that suit their needs. We acknowledge that searching for the right laptop can be overwhelming, and our website seeks to simplify this process by presenting only the most relevant information. Our website prioritizes ease of use, functionality, and visual appeal to provide the best possible user experience. Our website is designed to be both simplistic and functional, promising a hassle-free experience for consumers.
