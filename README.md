@@ -1,4 +1,5 @@
 A ~3 years old project. Needs to get revised.
+
 Abstract:
 Our aim was to create a user-friendly single page website that assists college students with limited knowledge and information on everyday technology to make the best decisions about the products that suit their needs. We acknowledge that searching for the right laptop can be overwhelming, and our website seeks to simplify this process by presenting only the most relevant information. Our website prioritizes ease of use, functionality, and visual appeal to provide the best possible user experience. Our website is designed to be both simplistic and functional, promising a hassle-free experience for consumers.
 
